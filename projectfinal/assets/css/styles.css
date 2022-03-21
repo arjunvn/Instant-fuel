@@ -607,6 +607,9 @@ body.dark-theme {
       color: var(--first-color);
       font-size: 26px;
       }
+      .pump{
+        border-image-width: 10px;
+      }
       
     }
 
