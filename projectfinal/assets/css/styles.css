@@ -614,6 +614,9 @@ body.dark-theme {
   margin-left: -45px;
   margin-bottom: -46px 
       }
+      .pic{
+     max-width: fit-content;
+      }
       
     }
 
