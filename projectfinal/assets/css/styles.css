@@ -615,7 +615,10 @@ body.dark-theme {
   margin-bottom: -46px 
       }
       .pic{
-     max-width: fit-content;
+     max-width:600px;
+      }
+      .truck{
+        max-width: 540px;
       }
       
     }
