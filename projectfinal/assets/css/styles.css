@@ -234,6 +234,8 @@ body.dark-theme {
 /*=============== HOME ===============*/
 .home__container {
   row-gap: 3rem;
+  margin-bottom: 60px;
+  font-size: 15px;
 }
 
 .home__title {
@@ -619,6 +621,12 @@ body.dark-theme {
       }
       .truck{
         max-width: 540px;
+      }
+      .services{
+        margin-left: 205px;
+      }
+      .section__title{
+        margin-left: -322px;
       }
       
     }
